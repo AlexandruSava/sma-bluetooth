@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sma-bluetooth-todo.iml" filepath="$PROJECT_DIR$/.idea/modules/sma-bluetooth-todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/sma-bluetooth-todo.client.iml" filepath="$PROJECT_DIR$/.idea/modules/client/sma-bluetooth-todo.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/sma-bluetooth-todo.server.iml" filepath="$PROJECT_DIR$/.idea/modules/server/sma-bluetooth-todo.server.iml" />
+    </modules>
+  </component>
+</project>
